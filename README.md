@@ -6,13 +6,15 @@ The whole game is a single HTML file with no build step and no dependencies.
 
 ## Play
 
-Open `game7.html` in a browser, or serve the folder locally:
+**Play it online at https://www.hugshelp.ca/game-7/**
+
+To run it locally, open `index.html` in a browser, or serve the folder:
 
 ```bash
 python3 -m http.server 8777
 ```
 
-Then go to http://localhost:8777/game7.html.
+Then go to http://localhost:8777.
 
 Progress (your current run, Hall of Fame, unlocks) is saved in your browser's local storage.
 
