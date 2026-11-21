@@ -39,3 +39,7 @@ The in-game **How to Play** screen has the full rules.
 ## Notes
 
 All teams and players are fictional parodies. The game is not affiliated with any league.
+
+## License
+
+[MIT](LICENSE)
